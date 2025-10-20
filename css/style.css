@@ -512,7 +512,7 @@ body {
 }
 
 .social-mini__link--1 {
-    background-image: url(../images/social-6.svg);
+    background-image: url(../images/vk.svg);
 }
 
 .social-mini__link--2 {
@@ -568,4 +568,5 @@ body {
     height: 2px;
     background-color: #FFF;
     width: 100%;
+
 }
